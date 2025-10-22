@@ -3,7 +3,7 @@ Overview
 This is a fun and functional Tech Trivia Quiz Application built using Flutter. The app is designed to challenge users with 10 multiple-choice questions covering various tech topics, from programming languages and frameworks to tools and tech history.
 
 The application follows clean, responsive design principles and includes essential features like navigation, score tracking, and a bonus per-question timer.
-
+live link https://hng-task2-s8zq08d-usman-umar-garba.globeapp.dev/
 Features
 10 Multiple Choice Questions: A fixed set of 10 technology-focused questions.
 
